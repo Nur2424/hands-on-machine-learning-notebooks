@@ -2,11 +2,9 @@
 
 This repository contains a collection of **Jupyter notebooks** created while studying and applying the concepts from the book:
 
-**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**  
-by Aurélien Géron
+**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** by Aurélien Géron
 
-**Hands-On Machine Learning with Scikit-Learn and PyTorch**
-by Aurélien Géron
+**Hands-On Machine Learning with Scikit-Learn and PyTorch** by Aurélien Géron
 
 The goal of this repository is to combine **theoretical understanding** with **practical experimentation**, following the structure and philosophy of the book.
 
