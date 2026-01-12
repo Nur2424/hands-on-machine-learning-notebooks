@@ -1,4 +1,4 @@
-# Hands-On Machine Learning — Study Notebooks
+## Hands-On Machine Learning — Study Notebooks
 
 This repository contains a collection of **Jupyter notebooks** created while studying and applying the concepts from the book:
 
