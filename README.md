@@ -1,6 +1,6 @@
 ## Hands-On Machine Learning — Study Notebooks
 
-This repository contains a collection of **Jupyter notebooks** created while studying and applying the concepts from the book:
+This repository contains a collection of **Jupyter notebooks** created while studying and applying the concepts from the books:
 
 **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** by Aurélien Géron
 
